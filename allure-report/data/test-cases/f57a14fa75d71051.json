@@ -1,0 +1,84 @@
+{
+  "uid" : "f57a14fa75d71051",
+  "name" : "createOrder[Цвет самоката: [BLACK]]",
+  "fullName" : "org.example.CreateOrderTest.createOrder[Цвет самоката: [BLACK]]",
+  "historyId" : "da0cce1df3b85099e89549d5bb9f3999",
+  "time" : {
+    "start" : 1795715271774,
+    "stop" : 1795715272034,
+    "duration" : 260
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Создание заказа",
+      "time" : {
+        "start" : 1795715271776,
+        "stop" : 1795715272011,
+        "duration" : 235
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "order",
+        "value" : "org.example.pojo.Order@5f5076f9"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.CreateOrderTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createOrder[Цвет самоката: [BLACK]]"
+  }, {
+    "name" : "suite",
+    "value" : "org.example.CreateOrderTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1HBJKP2"
+  }, {
+    "name" : "thread",
+    "value" : "1608@DESKTOP-1HBJKP2.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f57a14fa75d71051.json",
+  "parameterValues" : [ ]
+}

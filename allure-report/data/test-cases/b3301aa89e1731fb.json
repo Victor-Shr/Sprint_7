@@ -1,0 +1,84 @@
+{
+  "uid" : "b3301aa89e1731fb",
+  "name" : "createOrder[Цвет самоката: [GREY]]",
+  "fullName" : "org.example.CreateOrderTest.createOrder[Цвет самоката: [GREY]]",
+  "historyId" : "7b7918dbded9d99603877e7cbb2add61",
+  "time" : {
+    "start" : 1795715272036,
+    "stop" : 1795715272272,
+    "duration" : 236
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Создание заказа",
+      "time" : {
+        "start" : 1795715272036,
+        "stop" : 1795715272252,
+        "duration" : 216
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "order",
+        "value" : "org.example.pojo.Order@40273969"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.CreateOrderTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createOrder[Цвет самоката: [GREY]]"
+  }, {
+    "name" : "suite",
+    "value" : "org.example.CreateOrderTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1HBJKP2"
+  }, {
+    "name" : "thread",
+    "value" : "1608@DESKTOP-1HBJKP2.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b3301aa89e1731fb.json",
+  "parameterValues" : [ ]
+}

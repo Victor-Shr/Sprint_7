@@ -1,0 +1,174 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "courierIsCreated",
+    "uid" : "91e18039b1262fa9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1795715227924,
+      "stop" : 1795715270318,
+      "duration" : 42394
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "courierDuplicate",
+    "uid" : "bbed6743b502af52",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1795715270385,
+      "stop" : 1795715271286,
+      "duration" : 901
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "brokenCourier",
+    "uid" : "7360a070d950c245",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1795715271289,
+      "stop" : 1795715271753,
+      "duration" : 464
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "createOrder[Цвет самоката: [BLACK]]",
+    "uid" : "f57a14fa75d71051",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1795715271774,
+      "stop" : 1795715272034,
+      "duration" : 260
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "createOrder[Цвет самоката: [GREY]]",
+    "uid" : "b3301aa89e1731fb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1795715272036,
+      "stop" : 1795715272272,
+      "duration" : 236
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "createOrder[Цвет самоката: [BLACK, GREY]]",
+    "uid" : "9dd2d53e1402b302",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1795715272273,
+      "stop" : 1795715272494,
+      "duration" : 221
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "createOrder[Цвет самоката: []]",
+    "uid" : "2f265cf1b85365db",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1795715272497,
+      "stop" : 1795715272724,
+      "duration" : 227
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "ordersList",
+    "uid" : "d1be957115fa8b4d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1795715272726,
+      "stop" : 1795715288189,
+      "duration" : 15463
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "emptyPassword",
+    "uid" : "9b64383c6cc041ae",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1795715288192,
+      "stop" : 1795715332743,
+      "duration" : 44551
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "emptyLogin",
+    "uid" : "f08afcc6e172d89c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1795715332752,
+      "stop" : 1795715333635,
+      "duration" : 883
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "invalidPassword",
+    "uid" : "487e4409fb8a6658",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1795715333638,
+      "stop" : 1795715334750,
+      "duration" : 1112
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "courierLoginOk",
+    "uid" : "5e812d81a6cbfedb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1795715334753,
+      "stop" : 1795715335558,
+      "duration" : 805
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "invalidLogin",
+    "uid" : "f91c40a9c2cc4706",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1795715335561,
+      "stop" : 1795715336331,
+      "duration" : 770
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}
