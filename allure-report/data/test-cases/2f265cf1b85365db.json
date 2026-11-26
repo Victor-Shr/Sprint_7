@@ -1,0 +1,84 @@
+{
+  "uid" : "2f265cf1b85365db",
+  "name" : "createOrder[Цвет самоката: []]",
+  "fullName" : "org.example.CreateOrderTest.createOrder[Цвет самоката: []]",
+  "historyId" : "49cb5c16cf61e1d8b009cd7fd837ca87",
+  "time" : {
+    "start" : 1795715272497,
+    "stop" : 1795715272724,
+    "duration" : 227
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Создание заказа",
+      "time" : {
+        "start" : 1795715272497,
+        "stop" : 1795715272707,
+        "duration" : 210
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "order",
+        "value" : "org.example.pojo.Order@3abd7b20"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.CreateOrderTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createOrder[Цвет самоката: []]"
+  }, {
+    "name" : "suite",
+    "value" : "org.example.CreateOrderTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1HBJKP2"
+  }, {
+    "name" : "thread",
+    "value" : "1608@DESKTOP-1HBJKP2.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f265cf1b85365db.json",
+  "parameterValues" : [ ]
+}

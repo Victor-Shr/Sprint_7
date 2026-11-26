@@ -1,0 +1,102 @@
+{
+  "uid" : "7360a070d950c245",
+  "name" : "brokenCourier",
+  "fullName" : "org.example.CreateCourierTest.brokenCourier",
+  "historyId" : "6c838367c650eb4d13e0b43acda5c885",
+  "time" : {
+    "start" : 1795715271289,
+    "stop" : 1795715271753,
+    "duration" : 464
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Создание курьера в БД Самокат",
+      "time" : {
+        "start" : 1795715271289,
+        "stop" : 1795715271476,
+        "duration" : 187
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "courier",
+        "value" : "org.example.pojo.Courier@3891db3a"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Создание курьера в БД Самокат",
+      "time" : {
+        "start" : 1795715271491,
+        "stop" : 1795715271738,
+        "duration" : 247
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "courier",
+        "value" : "org.example.pojo.Courier@538d2308"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.CreateCourierTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "brokenCourier"
+  }, {
+    "name" : "suite",
+    "value" : "org.example.CreateCourierTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1HBJKP2"
+  }, {
+    "name" : "thread",
+    "value" : "1608@DESKTOP-1HBJKP2.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7360a070d950c245.json",
+  "parameterValues" : [ ]
+}

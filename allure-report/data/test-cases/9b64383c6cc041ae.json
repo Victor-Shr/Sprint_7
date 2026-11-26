@@ -1,0 +1,138 @@
+{
+  "uid" : "9b64383c6cc041ae",
+  "name" : "emptyPassword",
+  "fullName" : "org.example.LoginCourierTest.emptyPassword",
+  "historyId" : "4300480994fc4e594824d26a823059b0",
+  "time" : {
+    "start" : 1795715288192,
+    "stop" : 1795715332743,
+    "duration" : 44551
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Создание курьера в БД Самокат",
+      "time" : {
+        "start" : 1795715288193,
+        "stop" : 1795715317829,
+        "duration" : 29636
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "courier",
+        "value" : "org.example.pojo.Courier@5924ea91"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Курьер логинится в системе",
+      "time" : {
+        "start" : 1795715317829,
+        "stop" : 1795715332300,
+        "duration" : 14471
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "courier",
+        "value" : "org.example.pojo.CourierForLogin@20ee660b"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Курьер логинится в системе",
+      "time" : {
+        "start" : 1795715332313,
+        "stop" : 1795715332517,
+        "duration" : 204
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "courier",
+        "value" : "org.example.pojo.CourierForLogin@2060df8"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Удаление курьера по ID",
+      "time" : {
+        "start" : 1795715332532,
+        "stop" : 1795715332743,
+        "duration" : 211
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "idCourier",
+        "value" : "832650"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.LoginCourierTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "emptyPassword"
+  }, {
+    "name" : "suite",
+    "value" : "org.example.LoginCourierTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1HBJKP2"
+  }, {
+    "name" : "thread",
+    "value" : "1608@DESKTOP-1HBJKP2.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b64383c6cc041ae.json",
+  "parameterValues" : [ ]
+}

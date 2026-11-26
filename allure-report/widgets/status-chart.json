@@ -1,0 +1,131 @@
+[ {
+  "uid" : "d1be957115fa8b4d",
+  "name" : "ordersList",
+  "time" : {
+    "start" : 1795715272726,
+    "stop" : 1795715288189,
+    "duration" : 15463
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7360a070d950c245",
+  "name" : "brokenCourier",
+  "time" : {
+    "start" : 1795715271289,
+    "stop" : 1795715271753,
+    "duration" : 464
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3301aa89e1731fb",
+  "name" : "createOrder[Цвет самоката: [GREY]]",
+  "time" : {
+    "start" : 1795715272036,
+    "stop" : 1795715272272,
+    "duration" : 236
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e812d81a6cbfedb",
+  "name" : "courierLoginOk",
+  "time" : {
+    "start" : 1795715334753,
+    "stop" : 1795715335558,
+    "duration" : 805
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "91e18039b1262fa9",
+  "name" : "courierIsCreated",
+  "time" : {
+    "start" : 1795715227924,
+    "stop" : 1795715270318,
+    "duration" : 42394
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9dd2d53e1402b302",
+  "name" : "createOrder[Цвет самоката: [BLACK, GREY]]",
+  "time" : {
+    "start" : 1795715272273,
+    "stop" : 1795715272494,
+    "duration" : 221
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "487e4409fb8a6658",
+  "name" : "invalidPassword",
+  "time" : {
+    "start" : 1795715333638,
+    "stop" : 1795715334750,
+    "duration" : 1112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b64383c6cc041ae",
+  "name" : "emptyPassword",
+  "time" : {
+    "start" : 1795715288192,
+    "stop" : 1795715332743,
+    "duration" : 44551
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f08afcc6e172d89c",
+  "name" : "emptyLogin",
+  "time" : {
+    "start" : 1795715332752,
+    "stop" : 1795715333635,
+    "duration" : 883
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bbed6743b502af52",
+  "name" : "courierDuplicate",
+  "time" : {
+    "start" : 1795715270385,
+    "stop" : 1795715271286,
+    "duration" : 901
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f265cf1b85365db",
+  "name" : "createOrder[Цвет самоката: []]",
+  "time" : {
+    "start" : 1795715272497,
+    "stop" : 1795715272724,
+    "duration" : 227
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f91c40a9c2cc4706",
+  "name" : "invalidLogin",
+  "time" : {
+    "start" : 1795715335561,
+    "stop" : 1795715336331,
+    "duration" : 770
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f57a14fa75d71051",
+  "name" : "createOrder[Цвет самоката: [BLACK]]",
+  "time" : {
+    "start" : 1795715271774,
+    "stop" : 1795715272034,
+    "duration" : 260
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
